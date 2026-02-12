@@ -1,0 +1,69 @@
+{
+  "metadata" : {
+    "author" : "Orginal theme by sainnhe, ported by Pascal Finette",
+    "description" : "Gruvbox Material (Hard)",
+    "license" : "MIT",
+    "version" : "1.0"
+  },
+  "attributes" : {
+    "color" : "#e78a4e"
+  },
+  "background" : {
+    "color" : "#1d2021"
+  },
+  "characters" : {
+    "color" : "#d3869b"
+  },
+  "commands" : {
+    "color" : "#a9b665"
+  },
+  "comments" : {
+    "color" : "#928374"
+  },
+  "cursor" : {
+    "color" : "#d4be98"
+  },
+  "heading1" : {
+    "color" : "#ea6962"
+  },
+  "heading2" : {
+    "color" : "#e78a4e"
+  },
+  "heading3" : {
+    "color" : "#d8a657"
+  },
+  "heading4" : {
+    "color" : "#a9b665"
+  },
+  "invisibles" : {
+    "color" : "#504945"
+  },
+  "keywords" : {
+    "color" : "#ea6962"
+  },
+  "lineHighlight" : {
+    "color" : "#282828"
+  },
+  "numbers" : {
+    "color" : "#d3869b"
+  },
+  "selection" : {
+    "color" : "#3c3836",
+    "usesSystemSetting" : false
+  },
+  "strings" : {
+    "color" : "#a9b665"
+  },
+  "text" : {
+    "color" : "#d4be98"
+  },
+  "types" : {
+    "color" : "#d8a657"
+  },
+  "values" : {
+    "color" : "#89b482"
+  },
+  "variables" : {
+    "color" : "#7daea3"
+  }
+}
